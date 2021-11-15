@@ -1,0 +1,1 @@
+solution of https://www.kaggle.com/c/friends-classification/data?select=train_data.csv
